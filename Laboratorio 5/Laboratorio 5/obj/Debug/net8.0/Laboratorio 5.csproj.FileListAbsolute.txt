@@ -1,0 +1,5 @@
+C:\Users\Necro\source\repos\ds4\Laboratorio 5\Laboratorio 5\obj\Debug\net8.0\Laboratorio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necro\source\repos\ds4\Laboratorio 5\Laboratorio 5\obj\Debug\net8.0\Laboratorio 5.AssemblyInfoInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 5\Laboratorio 5\obj\Debug\net8.0\Laboratorio 5.AssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Laboratorio 5\Laboratorio 5\obj\Debug\net8.0\Laboratorio 5.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 5\Laboratorio 5\obj\Debug\net8.0\Laboratorio 5.sourcelink.json
