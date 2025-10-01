@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\bin\Debug\net8.0\Laboratorio71.exe
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\bin\Debug\net8.0\Laboratorio71.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\bin\Debug\net8.0\Laboratorio71.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\bin\Debug\net8.0\Laboratorio71.dll
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\bin\Debug\net8.0\Laboratorio71.pdb
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.dll
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\refint\Laboratorio71.dll
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.pdb
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\Laboratorio71.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio7\Laboratorio71\obj\Debug\net8.0\ref\Laboratorio71.dll

@@ -1,0 +1,15 @@
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.AssemblyInfoInputs.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.AssemblyInfo.cs
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.csproj.CoreCompileInputs.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.sourcelink.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\bin\Debug\net8.0\Laboratorio8.exe
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\bin\Debug\net8.0\Laboratorio8.deps.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\bin\Debug\net8.0\Laboratorio8.runtimeconfig.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\bin\Debug\net8.0\Laboratorio8.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\bin\Debug\net8.0\Laboratorio8.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\refint\Laboratorio8.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\Laboratorio8.genruntimeconfig.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 8\Laboratorio8\Laboratorio8\obj\Debug\net8.0\ref\Laboratorio8.dll
