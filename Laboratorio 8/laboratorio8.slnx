@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="laboratorio8.1/laboratorio8.1.csproj" />
+  <Project Path="laboratorio8.2/laboratorio8.2.csproj" />
+  <Project Path="laboratorio8.3/laboratorio8.3.csproj" />
+  <Project Path="laboratorio8.4/laboratorio8.4.csproj" />
+  <Project Path="laboratorio8.5/laboratorio8.5.csproj" />
+  <Project Path="laboratorio8.6/laboratorio8.6.csproj" />
+  <Project Path="laboratorio8.7/laboratorio8.7.csproj" />
+  <Project Path="laboratorio8.8/laboratorio8.8.csproj" />
+  <Project Path="laboratorio8.9/laboratorio8.9.csproj" />
+  <Project Path="laboratorio8/laboratorio8.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\bin\Debug\net8.0\laboratorio8.7.exe
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\bin\Debug\net8.0\laboratorio8.7.deps.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\bin\Debug\net8.0\laboratorio8.7.runtimeconfig.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\bin\Debug\net8.0\laboratorio8.7.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\bin\Debug\net8.0\laboratorio8.7.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.AssemblyInfoInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.AssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.sourcelink.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\refint\laboratorio8.7.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\laboratorio8.7.genruntimeconfig.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 8\laboratorio8.7\obj\Debug\net8.0\ref\laboratorio8.7.dll
