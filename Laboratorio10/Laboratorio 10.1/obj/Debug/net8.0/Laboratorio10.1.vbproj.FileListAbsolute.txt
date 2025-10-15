@@ -1,0 +1,15 @@
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\bin\Debug\net8.0\Laboratorio10.1.exe
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\bin\Debug\net8.0\Laboratorio10.1.deps.json
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\bin\Debug\net8.0\Laboratorio10.1.runtimeconfig.json
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\bin\Debug\net8.0\Laboratorio10.1.dll
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\bin\Debug\net8.0\Laboratorio10.1.pdb
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.AssemblyInfoInputs.cache
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.AssemblyInfo.vb
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.vbproj.CoreCompileInputs.cache
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.sourcelink.json
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.dll
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\refint\Laboratorio10.1.dll
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.pdb
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\Laboratorio10.1.genruntimeconfig.cache
+C:\Users\amirr\source\repos\ds4\Laboratorio10\Laboratorio10.1\obj\Debug\net8.0\ref\Laboratorio10.1.dll
