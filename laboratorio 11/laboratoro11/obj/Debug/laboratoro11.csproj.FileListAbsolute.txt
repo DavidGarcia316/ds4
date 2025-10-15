@@ -1,0 +1,21 @@
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.Properties.Resources.resources
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.lblHelloWorld.resources
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\bin\Debug\laboratoro11.exe.config
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\bin\Debug\laboratoro11.exe
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\bin\Debug\laboratoro11.pdb
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.exe
+C:\Users\rodol\source\repos\laboratoro11\laboratoro11\obj\Debug\laboratoro11.pdb
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\bin\Debug\laboratoro11.exe.config
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\bin\Debug\laboratoro11.exe
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\bin\Debug\laboratoro11.pdb
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.csproj.AssemblyReference.cache
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.exe.config
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.lblHelloWorld.resources
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.Properties.Resources.resources
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.csproj.GenerateResource.cache
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.exe
+C:\Users\Necro\source\repos\ds4\laboratorio 11\laboratoro11\obj\Debug\laboratoro11.pdb
