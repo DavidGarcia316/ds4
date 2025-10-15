@@ -1,0 +1,5 @@
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12.3\obj\Debug\laboratorio12.3.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12.3\obj\Debug\Laboratorio12_3.Form1.resources
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12.3\obj\Debug\laboratorio12._3.Properties.Resources.resources
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12.3\obj\Debug\laboratorio12.3.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12.3\obj\Debug\laboratorio12.3.csproj.CoreCompileInputs.cache

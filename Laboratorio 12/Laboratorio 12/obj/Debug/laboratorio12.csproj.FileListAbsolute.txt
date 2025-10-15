@@ -1,0 +1,21 @@
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\Laboratorio12.Form1.resources
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.Properties.Resources.resources
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\bin\Debug\laboratorio12.exe.config
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\bin\Debug\laboratorio12.exe
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\bin\Debug\laboratorio12.pdb
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.exe
+C:\Users\rodol\source\repos\ds4\laboratorio12\laboratorio12\obj\Debug\laboratorio12.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\bin\Debug\laboratorio12.exe.config
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\bin\Debug\laboratorio12.exe
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\bin\Debug\laboratorio12.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.csproj.AssemblyReference.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.exe.config
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\Laboratorio12.Form1.resources
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.Properties.Resources.resources
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.csproj.GenerateResource.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.exe
+C:\Users\Necro\source\repos\ds4\Laboratorio 12\Laboratorio 12\obj\Debug\laboratorio12.pdb
