@@ -1,0 +1,157 @@
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.exe
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.deps.json
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.runtimeconfig.json
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOME\source\repos\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.Form1.resources
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laborato.9157CC8E.Up2Date
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\refint\Laboratorio13.dll
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.genruntimeconfig.cache
+C:\Users\HOME\source\repos\Laboratorio13\obj\Debug\net8.0-windows\ref\Laboratorio13.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.exe
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.deps.json
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.runtimeconfig.json
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.Form1.resources
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfo.cs
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laborato.9157CC8E.Up2Date
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\refint\Laboratorio13.dll
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\Laboratorio13.genruntimeconfig.cache
+C:\Users\rodol\source\repos\ds4\Laboratorio13\obj\Debug\net8.0-windows\ref\Laboratorio13.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Laboratorio13.exe
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Laboratorio13.deps.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Laboratorio13.runtimeconfig.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.csproj.AssemblyReference.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.Form1.resources
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.csproj.GenerateResource.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfoInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.AssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.sourcelink.json
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laborato.9157CC8E.Up2Date
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\refint\Laboratorio13.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\Laboratorio13.genruntimeconfig.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio 13\obj\Debug\net8.0-windows\ref\Laboratorio13.dll
