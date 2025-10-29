@@ -8,7 +8,7 @@ namespace Laboratorio13
     public partial class Form1 : Form
     {
 
-        private string connectionString = @"Server=DESKTOP-FMFL8H9;Database=Northwind;TrustServerCertificate=true;Integrated Security=SSPI;";
+        private string connectionString = @"Server=DESKTOP-I219HIE\BD2_DG;Database=Northwind;TrustServerCertificate=true;Integrated Security=SSPI;";
 
         public Form1()
         {
@@ -20,7 +20,7 @@ namespace Laboratorio13
         {
             try
             {
-                SqlConnection conexion = new SqlConnection(connectionString);
+                SqlConnection conexion = new SqlConnection("DESKTOP-I219HIE\\BD2_DG");
                 conexion.Open();
 
                 MessageBox.Show("Se abrió la conexión con el servidor SQL Server y se seleccionó la base de datos");

@@ -1,0 +1,7 @@
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial_2.Form1.resources
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.GenerateResource.cache
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.AssemblyInfoInputs.cache
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.AssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.sourcelink.json

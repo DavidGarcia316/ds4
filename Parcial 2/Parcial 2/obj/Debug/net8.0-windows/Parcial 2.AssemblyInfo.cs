@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorio13")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Parcial 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a45ddd944602c1251c65ecb08d7d050299af62")]
-[assembly: System.Reflection.AssemblyProductAttribute("Laboratorio13")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Laboratorio13")]
+[assembly: System.Reflection.AssemblyProductAttribute("Parcial 2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Parcial 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
