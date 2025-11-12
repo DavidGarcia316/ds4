@@ -1,29 +1,62 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data;
 using System.Data.SqlClient;
+using System.Globalization;
 using System.Windows.Forms;
 
-namespace Proyecto_1
+public class Conexion
 {
-    internal class Conexion
+    private const string connectionString = "Data Source=DESKTOP - I219HIE\\MSSQLLocalDB;Initial Catalog=CalculadoraDB;Integrated Security=True;Connect Timeout=30";
+
+    private readonly CultureInfo cultura = CultureInfo.InvariantCulture;
+
+    /// <summary>
+    /// </summary>
+    /// <param name="sql">La sentencia SQL a ejecutar.</param>
+    /// <returns>True si el comando fue exitoso, False si ocurrió un error.</returns>
+    public bool EjecutarComando(string sql)
     {
-        public SqlConnection conectar()
+        using (SqlConnection connection = new SqlConnection(connectionString))
         {
             try
             {
-                SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-I219HIE\\BD2_DG;Initial Catalog=DB_Calculadora;Integrated Security=True");
-                conexion.Open();
-                MessageBox.Show("Conexion Exitosa");
-                return conexion;
+                connection.Open();
+                using (SqlCommand command = new SqlCommand(sql, connection))
+                {
+                    command.ExecuteNonQuery();
+                    return true;
+                }
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                MessageBox.Show("Error de conexion: " + e.Message);
-                return null;
+                MessageBox.Show("Error al ejecutar comando SQL: " + ex.Message, "Error de Base de Datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+        } // La conexión se cierra aquí automáticamente.
+    }
+
+    /// <summary>
+    /// </summary>
+    /// <param name="sql">La sentencia SELECT a ejecutar.</param>
+    /// <returns>Un DataTable con los resultados de la consulta.</returns>
+    public DataTable ObtenerResultados(string sql)
+    {
+        DataTable dt = new DataTable();
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            try
+            {
+                connection.Open();
+                using (SqlDataAdapter adapter = new SqlDataAdapter(sql, connection))
+                {
+                    adapter.Fill(dt);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener resultados SQL: " + ex.Message, "Error de Base de Datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+        return dt;
     }
 }

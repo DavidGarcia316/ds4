@@ -49,6 +49,7 @@
             this.btnBorrar = new System.Windows.Forms.Button();
             this.btnDivision = new System.Windows.Forms.Button();
             this.btnModulo = new System.Windows.Forms.Button();
+            this.btnHistorial = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // cajaResultado
@@ -237,7 +238,7 @@
             this.btnReset.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Location = new System.Drawing.Point(263, 113);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(64, 47);
+            this.btnReset.Size = new System.Drawing.Size(74, 47);
             this.btnReset.TabIndex = 20;
             this.btnReset.Text = "CE";
             this.btnReset.UseVisualStyleBackColor = true;
@@ -276,11 +277,21 @@
             this.btnModulo.UseVisualStyleBackColor = true;
             this.btnModulo.Click += new System.EventHandler(this.btnModulo_Click);
             // 
+            // btnHistorial
+            // 
+            this.btnHistorial.Location = new System.Drawing.Point(200, 33);
+            this.btnHistorial.Name = "btnHistorial";
+            this.btnHistorial.Size = new System.Drawing.Size(75, 23);
+            this.btnHistorial.TabIndex = 21;
+            this.btnHistorial.Text = "Historial";
+            this.btnHistorial.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(446, 475);
+            this.Controls.Add(this.btnHistorial);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.btnBorrar);
             this.Controls.Add(this.btnDivision);
@@ -332,6 +343,7 @@
         private System.Windows.Forms.Button btnBorrar;
         private System.Windows.Forms.Button btnDivision;
         private System.Windows.Forms.Button btnModulo;
+        private System.Windows.Forms.Button btnHistorial;
     }
 }
 
