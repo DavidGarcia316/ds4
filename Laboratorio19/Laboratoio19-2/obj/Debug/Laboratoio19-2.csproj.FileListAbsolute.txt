@@ -1,0 +1,8 @@
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\bin\Debug\Laboratoio19-2.exe.config
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\bin\Debug\Laboratoio19-2.exe
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\bin\Debug\Laboratoio19-2.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\obj\Debug\Laboratoio19-2.csproj.AssemblyReference.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\obj\Debug\Laboratoio19-2.csproj.CoreCompileInputs.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\obj\Debug\Laboratoio19-2.exe
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\obj\Debug\Laboratoio19-2.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 19\Laboratoio19-2\obj\Debug\Laboratoio19-2.exe.config
