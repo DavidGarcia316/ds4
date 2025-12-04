@@ -1,0 +1,68 @@
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\appsettings.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.staticwebassets.runtime.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.staticwebassets.endpoints.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.exe
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.deps.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.runtimeconfig.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.AssemblyInfoInputs.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.AssemblyInfo.cs
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.csproj.CoreCompileInputs.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.RazorAssemblyInfo.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.RazorAssemblyInfo.cs
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.sourcelink.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\bundle\Laboratorio 20.styles.css
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\projectbundle\Laboratorio 20.bundle.scp.css
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\refint\Laboratorio 20.dll
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.pdb
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.genruntimeconfig.cache
+C:\Users\ANK1T3S1S\source\repos\ds4\Laboratorio 20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\ref\Laboratorio 20.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\appsettings.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.staticwebassets.endpoints.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.staticwebassets.runtime.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.exe
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.deps.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.runtimeconfig.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\bin\Debug\net8.0\Laboratorio 20.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.AssemblyInfoInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.AssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.csproj.CoreCompileInputs.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.RazorAssemblyInfo.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.RazorAssemblyInfo.cs
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.sourcelink.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\bundle\Laboratorio 20.styles.css
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\scopedcss\projectbundle\Laboratorio 20.bundle.scp.css
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\refint\Laboratorio 20.dll
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.pdb
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\Laboratorio 20.genruntimeconfig.cache
+C:\Users\Necro\source\repos\ds4\Laboratorio20\Laboratorio 20\Laboratorio 20\obj\Debug\net8.0\ref\Laboratorio 20.dll

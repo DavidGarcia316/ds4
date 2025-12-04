@@ -1,0 +1,67 @@
+﻿@page
+@{
+    ViewData["Title"] = "Matriz Diagonal Inversa";
+    int n = 0;
+    bool mostrarMatriz = false;
+
+    if (Request.Method == "POST")
+    {
+        int.TryParse(Request.Form["dimensionN"], out n);
+        if (n > 0)
+        {
+            mostrarMatriz = true;
+        }
+    }
+}
+
+<div class="container">
+    <h1>Generador de Matriz Diagonal Inversa</h1>
+
+    <form method="post">
+        <div class="form-group">
+            <label>Ingrese la dimensión N de la matriz:</label>
+            <input type="number" name="dimensionN" class="form-control" min="1" required />
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Generar Matriz</button>
+    </form>
+
+    <hr />
+
+    @if (mostrarMatriz)
+    {
+        <h3>Matriz resultante (@n x @n):</h3>
+
+        <style>
+            table.matriz { border-collapse: collapse; margin-top: 20px; }
+            table.matriz td {
+                border: 1px solid #333;
+                padding: 10px;
+                text-align: center;
+                width: 40px;
+                height: 40px;
+            }
+            .uno { background-color: #d1e7dd; font-weight: bold; }
+        </style>
+
+        <table class="matriz">
+            @for (int fila = 0; fila < n; fila++)
+            {
+                <tr>
+                    @for (int col = 0; col < n; col++)
+                    {
+                        // Lógica para diagonal inversa
+                        if (fila + col == n - 1)
+                        {
+                            <td class="uno">1</td>
+                        }
+                        else
+                        {
+                            <td>0</td>
+                        }
+                    }
+                </tr>
+            }
+        </table>
+    }
+</div>
