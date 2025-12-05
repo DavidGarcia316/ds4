@@ -1,0 +1,9 @@
+
+@model IEnumerable<OficinaPasaportesWeb.Models.Applicant>
+<h2>Solicitantes</h2>
+<table>
+<tr><th>Cédula</th><th>Nombre</th></tr>
+@foreach(var x in Model){
+<tr><td>@x.Cedula</td><td>@x.Nombre @x.Apellido</td></tr>
+}
+</table>
