@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Parcial_3.Models.Expediente>
+@{ ViewBag.Title = "Panel Principal"; }
+
+<br />
+<div class="well">
+    <h3>Oficina de Pasaportes - Control de Trámites</h3>
+</div>
+
+<p class="text-right">
+    @Html.ActionLink("+ Nuevo Expediente", "NuevoTramite", null, new { @class = "btn btn-success" })
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="thead-dark" style="background-color: #333; color: white;">
+        <tr>
+            <th>Cédula</th>
+            <th>Solicitante</th>
+            <th>Estado del Proceso</th>
+            <th>Fecha Ingreso</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><strong>@item.CedulaIdentidad</strong></td>
+                <td>@item.Apellidos, @item.Nombres</td>
+                <td>
+                    @if (item.EstadoActual == "Finalizado")
+                    {<b style="color:green">✔ Finalizado</b> }
+                    else
+                    { @item.EstadoActual}
+                </td>
+                <td>@item.FechaRegistro.ToString("dd/MM/yyyy")</td>
+                <td>
+                    @Html.ActionLink("Gestionar", "Gestionar", new { id = item.IdTramite }, new { @class = "btn btn-info btn-xs" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,28 @@
+﻿@model Parcial_3.Models.Expediente
+@{ ViewBag.Title = "Gestión"; }
+
+<h2>Actualizar Estatus</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.IdTramite)
+
+    <div class="alert alert-info">
+        <strong>Ciudadano:</strong> @Model.Nombres @Model.Apellidos <br />
+        <strong>Cédula:</strong> @Model.CedulaIdentidad
+    </div>
+
+    <div class="form-group">
+        <label>Seleccione nuevo estado:</label>
+        @Html.DropDownListFor(m => m.EstadoActual, new List<SelectListItem>
+        {
+            new SelectListItem{ Text="En Proceso", Value="En Proceso" },
+            new SelectListItem{ Text="Validado", Value="Validado" },
+            new SelectListItem{ Text="Rechazado", Value="Rechazado" },
+            new SelectListItem{ Text="Finalizado", Value="Finalizado" }
+        }, new { @class = "form-control input-lg" })
+    </div>
+
+    <input type="submit" value="Guardar Cambios" class="btn btn-success" />
+    @Html.ActionLink("Regresar", "Inicio", null, new { @class = "btn btn-link" })
+}
