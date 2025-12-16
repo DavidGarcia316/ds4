@@ -1,0 +1,99 @@
+﻿@model IEnumerable<LibreriaWeb.Models.Libro>
+
+@{
+    ViewBag.Title = "Inventario General";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">📚 Sistema de Inventario de Librería</h2>
+    <hr />
+
+    @if (TempData["Mensaje"] != null)
+    {
+        var mensaje = TempData["Mensaje"].ToString();
+        var claseAlerta = mensaje.Contains("Error") ? "alert-danger" : "alert-success";
+        <div class="alert @claseAlerta">
+            <strong>@mensaje</strong>
+        </div>
+    }
+
+    @if (User.IsInRole("Admin") || User.IsInRole("Vendedor"))
+    {
+        <div class="mb-3">
+            <a href="@Url.Action("Nuevo", "Libros")" class="btn btn-primary btn-lg">
+                ➕ Agregar Libro
+            </a>
+
+            <a href="@Url.Action("Vender", "Libros")" class="btn btn-success btn-lg">
+                💰 Registrar Venta
+            </a>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <a href="@Url.Action("Reportes", "Libros")" class="btn btn-info btn-lg text-white">
+                    📊 Ver Reportes
+                </a>
+            }
+
+            <a href="@Url.Action("GestionarPedidos", "Libros")" class="btn btn-warning btn-lg text-dark">
+                📋 Ver Pedidos Clientes
+            </a>
+        </div>
+    }
+
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-dark text-center">
+            <tr>
+                <th>Título</th>
+                <th>Categoría</th>
+                <th>Precio</th>
+                <th>Stock Actual</th>
+                <th>Estado / Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                // Lógica visual para pintar la fila
+                string claseFila = "";
+                if (item.Stock == 0) { claseFila = "table-danger"; }
+                else if (item.Stock <= 5) { claseFila = "table-warning"; }
+
+                <tr class="@claseFila">
+                    <td>@item.Titulo</td>
+                    <td>@item.Categoria</td>
+                    <td>$ @item.Precio</td>
+                    <td class="text-center">
+                        <strong>@item.Stock</strong>
+                    </td>
+                    <td class="text-center">
+                        @* 1. MOSTRAR BADGES (Etiquetas de estado) *@
+                        @if (item.Stock == 0)
+                        {
+                            <span class="badge bg-danger">AGOTADO</span>
+                        }
+                        else if (item.Stock <= 5)
+                        {
+                            <span class="badge bg-warning text-dark">STOCK BAJO (@item.Stock)</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-success">DISPONIBLE</span>
+                        }
+
+                        @* 2. MOSTRAR BOTÓN DE PEDIR (SOLO PARA CLIENTES Y SI HAY STOCK) *@
+                        @if (User.IsInRole("Cliente") && item.Stock > 0)
+                        {
+                            <div class="mt-2">
+                                <a href="@Url.Action("Solicitar", "Libros", new { idLibro = item.IdLibro, titulo = item.Titulo })"
+                                   class="btn btn-primary btn-sm">
+                                    🛒 Pedir
+                                </a>
+                            </div>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

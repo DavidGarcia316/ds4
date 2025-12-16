@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LibreriaWeb.Models.ReporteViewModel>
+
+@{
+    ViewBag.Title = "Reportes";
+}
+
+<div class="container mt-4">
+    <h2>📊 Reporte de Inventario por Categoría</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-8">
+            <table class="table table-striped">
+                <thead class="bg-dark text-white">
+                    <tr>
+                        <th>Categoría</th>
+                        <th>Total de Libros (Stock)</th>
+                        <th>Valor del Inventario ($)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Categoria</td>
+                            <td>@item.TotalStock unidades</td>
+                            <td>$ @item.ValorInventario</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h5 class="card-title">Resumen</h5>
+                    <p class="card-text">
+                        Este reporte agrupa todos los libros por su categoría y calcula el valor total monetario que tienes almacenado.
+                    </p>
+                    <a href="@Url.Action("Index", "Libros")" class="btn btn-primary">Volver al Inventario</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

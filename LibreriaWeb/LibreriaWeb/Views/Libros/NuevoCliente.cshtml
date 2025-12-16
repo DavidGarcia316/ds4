@@ -1,0 +1,42 @@
+﻿@{ ViewBag.Title = "Registrar Cliente"; }
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-dark text-white text-center">
+                    <h4>👤 Afiliar Nuevo Cliente</h4>
+                </div>
+                <div class="card-body">
+                    @if (ViewBag.Mensaje != null)
+                    {
+                        <div class="alert alert-success">@ViewBag.Mensaje</div>
+                    }
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger">@ViewBag.Error</div>
+                    }
+
+                    <form method="post" action="NuevoCliente">
+                        <div class="mb-3">
+                            <label class="form-label">Nombre Completo:</label>
+                            <input type="text" name="nombre" class="form-control" required placeholder="Ej: Maria Gonzalez" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Email (Usuario):</label>
+                            <input type="email" name="email" class="form-control" required placeholder="cliente@email.com" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Contraseña:</label>
+                            <input type="password" name="password" class="form-control" required />
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">Registrar Cliente</button>
+                            <a href="@Url.Action("Index")" class="btn btn-secondary">Volver al Inventario</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
